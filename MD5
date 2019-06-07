@@ -1,0 +1,9 @@
+2e3f50cdd9b987b922632681ea25a95c *DESCRIPTION
+7719550aafb79a09d83ac6b906d47688 *NAMESPACE
+5e836b7df0e552a6e0bcdd5ccdc1a761 *R/data.R
+9032725170a81c44abf2f7922a0bd0ae *R/model_TextSummary.R
+1935df02af3aaf6571410b7f147af520 *data/opinosis.rda
+886cbbd047d4d117f744b908faff4a97 *data/stopwords_longlist.rda
+13240242b854d2b19520f2b0de94eaa6 *man/TextSummary.Rd
+d714437210caaf6a063523e5dc207fcb *man/opinosis.Rd
+0bf9f29d0eb8f33506122ed1c7734353 *man/stopwords_longlist.Rd
